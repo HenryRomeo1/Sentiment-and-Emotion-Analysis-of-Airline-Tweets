@@ -3,7 +3,7 @@
 Analyze airline customer tweets to determine the overall sentiment and emotional tone.
 
 **Data**:  
-- Source: Airline Twitter Sentiment dataset (`Tweets.csv`)
+- Source: Airline Twitter Sentiment dataset [`Tweets.csv`](https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment)
 - Description: Customer tweets labeled with positive, neutral, or negative sentiment.
 
 **Data Mining Operations**:  
